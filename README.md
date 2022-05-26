@@ -24,28 +24,23 @@ https://drive.google.com/file/d/1_KXDvaLxEaPtrA5R07FxgnR1khER8Mfs/view?usp=shari
 
 ## Roadmap
 
-- Additional browser support
-
-- Add more integrations
+- Retrieving data from Watson AI repository
+- Extract the pizza data
+- Incorporating the Language data
+- Integrate Cloud service
+- Launch the chat bot locally using npm install
 
 
 ## API Reference
 
 #### 
 
-```http
-  GET /api/items
-```
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. N9TmHt20q4YZQGTohYYDOu_RJtWY5pkYIFQIvQbZx7-W |
 
 #### Get item
-
-```http
-  GET /api/items/${id}
-```
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
